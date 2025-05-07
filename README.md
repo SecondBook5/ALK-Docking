@@ -1,7 +1,7 @@
 # ALK Inhibitor Preparation and Pocket Detection Pipeline
 
 This repository provides a comprehensive Python-based pipeline for preparing ALK kinase inhibitors and their corresponding protein structures for molecular docking studies. The workflow supports ligand optimization, pharmacophore visualization, protein cleaning, grid box definition, and pocket detection using structural clustering.
-![Screenshot 2025-05-06 203418](https://github.com/user-attachments/assets/f6d3f1c8-72e6-4ced-a566-a12a7a674a89)
+
 
 
 ## Overview
@@ -27,14 +27,14 @@ The pipeline is divided into the following stages:
 4. **Pharmacophore Feature Extraction**
    - Extracts and displays key pharmacophore features using RDKit’s chemical feature factory.
    - Offers both 2D and 3D visualization of detected features.
-    ![Screenshot 2025-05-06 192825](https://github.com/user-attachments/assets/0cb4d251-0280-493d-90cd-85b08e42fce2)
+
 
 
 5. **Pocket-Ligand Analysis**
    - Matches ligand centroids to nearest structural pockets.
    - Computes distance metrics and visual diagnostics.
    - Outputs pocket statistics such as volume, extent, and bounding coordinates.
-   ![Screenshot 2025-05-06 203606](https://github.com/user-attachments/assets/388e2e74-21f3-4929-80f3-71fc11b49d00)
+
 
 
 ## Dependencies
