@@ -1,0 +1,234 @@
+71731823
+     RDKit          3D
+
+ 49 52  0  0  1  0  0  0  0  0999 V2000
+   -4.3049   -0.4220    4.1893 F   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.9559    2.1221    0.1667 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4353   -1.6683   -1.3728 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2921   -2.1889   -0.0426 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9644   -1.0222   -1.6999 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2374   -1.7515   -0.8565 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3549    3.7670    0.3603 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8551    4.6269    0.9049 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7095    2.2105   -2.9176 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3331   -1.4558    0.7194 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3660   -0.9392   -0.2355 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5214    0.3630   -0.7268 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.6776    0.9428   -0.2266 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -2.7311   -0.0940    0.9219 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.9028   -1.2421    0.9189 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6808    1.5272   -0.4162 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0121   -1.5874   -0.1927 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5883    0.2705   -1.6074 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5664    2.3315    0.0518 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2813    1.3747   -0.5024 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.0946    1.3542   -0.6929 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.6628    0.0729    1.9859 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.9182   -2.0926    2.0241 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4832   -3.6158   -0.3583 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2049    2.7848   -0.0651 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0083    3.5632    0.4410 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.6807   -0.8049    3.0622 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8887   -1.9410    3.0451 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9260   -1.6299   -2.6446 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2076    1.3387   -2.3533 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7974   -2.0832    1.4897 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8901   -0.5972    1.2461 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.2596    0.5250   -1.1571 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0863    0.5078   -0.9705 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.6530    1.9353    0.0834 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.0514    1.9783   -1.6097 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.6972    0.4439   -0.9509 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.2817    0.9597    2.0469 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2319   -2.9288    2.0786 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4371   -3.9848    0.1000 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3704   -4.2146    0.0446 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5317   -3.7174   -1.4543 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2736    2.9864   -0.0774 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8865   -2.6508    3.8626 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5293   -2.6633   -2.9013 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9327   -1.7325   -2.1560 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9859   -1.0463   -3.5940 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.9048    4.6077    0.7266 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4112    5.4804    1.3123 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 27  1  0
+  2 13  1  0
+  2 19  1  0
+  3 17  2  0
+  4 10  1  0
+  4 17  1  0
+  4 24  1  0
+  5  6  1  0
+  5 18  1  0
+  5 29  1  0
+  6 11  2  0
+  7 25  1  0
+  7 26  2  0
+  8 26  1  0
+  8 48  1  0
+  8 49  1  0
+  9 30  3  0
+ 10 11  1  0
+ 10 31  1  0
+ 10 32  1  0
+ 11 12  1  0
+ 12 16  1  0
+ 12 18  2  0
+ 13 14  1  0
+ 13 21  1  0
+ 13 33  1  6
+ 14 15  2  0
+ 14 22  1  0
+ 15 17  1  0
+ 15 23  1  0
+ 16 20  1  0
+ 16 25  2  0
+ 18 30  1  0
+ 19 20  2  0
+ 19 26  1  0
+ 20 34  1  0
+ 21 35  1  0
+ 21 36  1  0
+ 21 37  1  0
+ 22 27  2  0
+ 22 38  1  0
+ 23 28  2  0
+ 23 39  1  0
+ 24 40  1  0
+ 24 41  1  0
+ 24 42  1  0
+ 25 43  1  0
+ 27 28  1  0
+ 28 44  1  0
+ 29 45  1  0
+ 29 46  1  0
+ 29 47  1  0
+M  END
+>  <PUBCHEM_COMPOUND_CID>  (1) 
+71731823
+
+>  <PUBCHEM_COMPOUND_CANONICALIZED>  (1) 
+1
+
+>  <PUBCHEM_CACTVS_COMPLEXITY>  (1) 
+700
+
+>  <PUBCHEM_CACTVS_HBOND_ACCEPTOR>  (1) 
+7
+
+>  <PUBCHEM_CACTVS_HBOND_DONOR>  (1) 
+1
+
+>  <PUBCHEM_CACTVS_ROTATABLE_BOND>  (1) 
+0
+
+>  <PUBCHEM_CACTVS_SUBSKEYS>  (1) 
+AAADceB7sQAAAAAAAAAAAAAAAAAAAWAAAAA8QAAAAAAAAAAB8AAAHwAYAAAADBzhng4/tpNIFAC6Bzd3dASyjCk14CAY2CE/TNiO5vLE9duXvSjkzhPY6a+62KOOgAAAAAAQAAAAAAAAACAAAAAAAAAAAA==
+
+>  <PUBCHEM_IUPAC_OPENEYE_NAME>  (1) 
+(16R)-19-amino-13-fluoro-4,8,16-trimethyl-9-oxo-17-oxa-4,5,8,20-tetrazatetracyclo[16.3.1.02,6.010,15]docosa-1(22),2,5,10(15),11,13,18,20-octaene-3-carbonitrile
+
+>  <PUBCHEM_IUPAC_CAS_NAME>  (1) 
+(16R)-19-amino-13-fluoro-4,8,16-trimethyl-9-oxo-17-oxa-4,5,8,20-tetrazatetracyclo[16.3.1.02,6.010,15]docosa-1(22),2,5,10(15),11,13,18,20-octaene-3-carbonitrile
+
+>  <PUBCHEM_IUPAC_NAME_MARKUP>  (1) 
+(16<I>R</I>)-19-amino-13-fluoro-4,8,16-trimethyl-9-oxo-17-oxa-4,5,8,20-tetrazatetracyclo[16.3.1.0<SUP>2,6</SUP>.0<SUP>10,15</SUP>]docosa-1(22),2,5,10(15),11,13,18,20-octaene-3-carbonitrile
+
+>  <PUBCHEM_IUPAC_NAME>  (1) 
+(16R)-19-amino-13-fluoro-4,8,16-trimethyl-9-oxo-17-oxa-4,5,8,20-tetrazatetracyclo[16.3.1.02,6.010,15]docosa-1(22),2,5,10(15),11,13,18,20-octaene-3-carbonitrile
+
+>  <PUBCHEM_IUPAC_SYSTEMATIC_NAME>  (1) 
+(16R)-19-azanyl-13-fluoranyl-4,8,16-trimethyl-9-oxidanylidene-17-oxa-4,5,8,20-tetrazatetracyclo[16.3.1.02,6.010,15]docosa-1(22),2,5,10(15),11,13,18,20-octaene-3-carbonitrile
+
+>  <PUBCHEM_IUPAC_TRADITIONAL_NAME>  (1) 
+(16R)-19-amino-13-fluoro-9-keto-4,8,16-trimethyl-17-oxa-4,5,8,20-tetrazatetracyclo[16.3.1.02,6.010,15]docosa-1(22),2,5,10(15),11,13,18,20-octaene-3-carbonitrile
+
+>  <PUBCHEM_IUPAC_INCHI>  (1) 
+InChI=1S/C21H19FN6O2/c1-11-15-7-13(22)4-5-14(15)21(29)27(2)10-16-19(17(8-23)28(3)26-16)12-6-18(30-11)20(24)25-9-12/h4-7,9,11H,10H2,1-3H3,(H2,24,25)/t11-/m1/s1
+
+>  <PUBCHEM_IUPAC_INCHIKEY>  (1) 
+IIXWYSCJSQVBQM-LLVKDONJSA-N
+
+>  <PUBCHEM_XLOGP3_AA>  (1) 
+1.5
+
+>  <PUBCHEM_EXACT_MASS>  (1) 
+406.15535203
+
+>  <PUBCHEM_MOLECULAR_FORMULA>  (1) 
+C21H19FN6O2
+
+>  <PUBCHEM_MOLECULAR_WEIGHT>  (1) 
+406.4
+
+>  <PUBCHEM_REFERENCE_STANDARDIZATION>  (1) 
+Bypass - this structure was created from CID 71731823
+
+>  <PUBCHEM_SMILES>  (1) 
+C[C@@H]1C2=C(C=CC(=C2)F)C(=O)N(CC3=NN(C(=C3C4=CC(=C(N=C4)N)O1)C#N)C)C
+
+>  <PUBCHEM_OPENEYE_CAN_SMILES>  (1) 
+CC1C2=C(C=CC(=C2)F)C(=O)N(CC3=NN(C(=C3C4=CC(=C(N=C4)N)O1)C#N)C)C
+
+>  <PUBCHEM_OPENEYE_ISO_SMILES>  (1) 
+C[C@@H]1C2=C(C=CC(=C2)F)C(=O)N(CC3=NN(C(=C3C4=CC(=C(N=C4)N)O1)C#N)C)C
+
+>  <PUBCHEM_CACTVS_TPSA>  (1) 
+110
+
+>  <PUBCHEM_MONOISOTOPIC_WEIGHT>  (1) 
+406.15535203
+
+>  <PUBCHEM_TOTAL_CHARGE>  (1) 
+0
+
+>  <PUBCHEM_HEAVY_ATOM_COUNT>  (1) 
+30
+
+>  <PUBCHEM_ATOM_DEF_STEREO_COUNT>  (1) 
+1
+
+>  <PUBCHEM_ATOM_UDEF_STEREO_COUNT>  (1) 
+0
+
+>  <PUBCHEM_BOND_DEF_STEREO_COUNT>  (1) 
+0
+
+>  <PUBCHEM_BOND_UDEF_STEREO_COUNT>  (1) 
+0
+
+>  <PUBCHEM_ISOTOPIC_ATOM_COUNT>  (1) 
+0
+
+>  <PUBCHEM_COMPONENT_COUNT>  (1) 
+1
+
+>  <PUBCHEM_CACTVS_TAUTO_COUNT>  (1) 
+-1
+
+>  <PUBCHEM_COORDINATE_TYPE>  (1) 
+1
+5
+255
+
+>  <PUBCHEM_BONDANNOTATIONS>  (1) 
+11  12  8
+12  18  8
+13  21  6
+14  15  8
+14  22  8
+15  23  8
+16  20  8
+16  25  8
+19  20  8
+19  26  8
+22  27  8
+23  28  8
+27  28  8
+5  18  8
+5  6  8
+6  11  8
+7  25  8
+7  26  8
+
+$$$$
